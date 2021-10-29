@@ -34,6 +34,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
+-<b>Skills Used</b>: Python, Pandsas, SKLearn
+-<b>Project Objective</b>: Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
+Compared predictive performance by fitting a Naive Bayes model to the data
+Selected best model based on train and test performance
+-<b>Accuracy</b>: 85.95%
+
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
