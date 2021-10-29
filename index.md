@@ -7,6 +7,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
+
 - <b>Skills Used</b>: Python,Pandas,SKLearn
 - <b>Project Objective</b>: By predicting the Bike rental demand in advance from weather forcas, Bike rental company positions the bike according to customers' demand resulting in increase in bike utilization.
 - <b>Quantifiable Results</b>: We could predict the bike rentals resulting in 95% accuracy and 135% increase in Bike utilization.
